@@ -1785,7 +1785,7 @@ GameObject:
   - component: {fileID: 3511915887954061366}
   m_Layer: 0
   m_Name: Animal_Cow_White
-  m_TagString: Untagged
+  m_TagString: Animal
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1922,8 +1922,8 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 8.621781, y: 30.826544, z: 48.44997}
-  m_Center: {x: -0.061490286, y: 14.913274, z: -0.8544815}
+  m_Size: {x: 10.544702, y: 30.826544, z: 48.44997}
+  m_Center: {x: 0.12916307, y: 14.913274, z: -0.8544815}
 --- !u!114 &3511915887954061366
 MonoBehaviour:
   m_ObjectHideFlags: 0
